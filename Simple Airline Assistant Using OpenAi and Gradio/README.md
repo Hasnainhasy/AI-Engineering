@@ -60,3 +60,8 @@ The AI can call the following tool to update a ticket price:
 
 ```text
 set_ticket_price(city, price)
+
+----------------------------------------
+├── day4.ipynb
+├── prices.db
+└── README.md
